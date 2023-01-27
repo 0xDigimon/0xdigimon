@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdelmawla Elamrosy
-- 👀 I’m interested in Cyber security and AI
+- 👀 I’m interested in CyberSecurity and Control Engineering
 
 
 <!---
