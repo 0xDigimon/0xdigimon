@@ -33,7 +33,9 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 <p width="30%">I'm a Computer and Control Engineer, Junior Penetration Tester, I have a
-knowledge with Programming, Networks, Penetration Testing and Active Directory.</p>
+knowledge with Programming, Networks, Penetration Testing and Active Directory.
+I studied Network Penetration Testing, OSCP, System Administration and Web Penetration Testing
+</p>
 <div align="center">
     <!-- Visitor Count -->
     <h4 align="center">Visitor's count :eyes:</h4>
