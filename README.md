@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 <p width="30%">I'm a Computer and Control Engineer, Junior Penetration Tester, I have a
-knowledge with Programming, Networks, Penetration Testing and Active Directory.
+knowledge with Programming, Networks, Penetration Testing and Active Directory.<br>
 I studied Network Penetration Testing, OSCP, System Administration and Web Penetration Testing
 </p>
 <div align="center">
