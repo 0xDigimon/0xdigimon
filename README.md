@@ -43,7 +43,7 @@ I studied Network Penetration Testing, OSCP, System Administration and Web Penet
             alt="0xDigimon :: Visitor's Count" />
     </p>
 <a href="https://0xDigimon.github.io/Website">
-   <img src="https://github.com/0xDigimon/0xdigimon/blob/main/media/DSC_1921.JPG" align="right" width="40%"/>
+   <img src="https://github.com/0xDigimon/0xdigimon/blob/main/PSX_20221212_132729.jpg" align="right" width="30%"/>
 </a>
 <!--
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xDigimon&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="30%" />
