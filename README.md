@@ -42,7 +42,7 @@ I studied Network Penetration Testing, OSCP, System Administration and Web Penet
     <p align="center"><img src="https://profile-counter.glitch.me/{0xDigimon}/count.svg"
             alt="0xDigimon :: Visitor's Count" />
     </p>
-  <img src="http://www.hackthebox.eu/badge/image/1385517" alt="Hack The Box">
+  <img src="http://www.hackthebox.eu/badge/image/1385517" alt="Hack The Box" align="center" width="30%" hight="30%"/>
 <a href="https://0xDigimon.github.io/Digimon">
    <img src="https://github.com/0xDigimon/0xdigimon/blob/main/PSX_20221212_132729.jpg" align="right" width="30%"/>
 </a>
