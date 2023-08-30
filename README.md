@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.facebook.com/Abdelmawla.Elamrosy" target="_blank"><img width="32px" alt="Facebook" title="Facebook" src="https://user-images.githubusercontent.com/59813937/234152031-754538e3-3e99-4439-bf9c-e537e53bfd62.png"/></a>
+  <a href="https://www.facebook.com/Abdelmawla.Elamrosy"><img width="32px" alt="Facebook" title="Facebook" src="https://user-images.githubusercontent.com/59813937/234152031-754538e3-3e99-4439-bf9c-e537e53bfd62.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/abdelmawla-elamrosy/" alt="Linkedin" title="Linkedin"><img width="32px" src="https://user-images.githubusercontent.com/59813937/234152096-a073220d-b5ab-43cb-8c79-29f8728cdd81.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
