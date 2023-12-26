@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-<p width="30%">Penetration Tester, Studied CRTP, OSCP, ECCPPT, EJPT, EWAPT
+<p align="center" >Penetration Tester, Studied CRTP, OSCP, ECCPPT, EJPT, EWAPT
 </p>
 <div align="center">
     <!-- Visitor Count -->
