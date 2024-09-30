@@ -1,13 +1,3 @@
-<!--
-- 👋 Hi, I’m Abdelmawla Elamrosy
-- 👀 I’m interested in CyberSecurity and Control Engineering
--->
-
-<!---
-abdooelamrosy/abdooelamrosy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <div>
 
 <p align="center" >
@@ -35,19 +25,9 @@ You can click the Preview link to take a look at your changes.
 <p align="center" >Penetration Tester | CRTM <br>Studied CRTP, CRTE, CRTM, OSCP, ECPPT, EJPT, EWPT, EWPTx
 </p>
 <div align="center">
-    <!-- Visitor Count
-    <h4 align="center">Visitor's count :eyes:</h4>
-    <p align="center"><img src="https://profile-counter.glitch.me/{0xDigimon}/count.svg"
-            alt="0xDigimon :: Visitor's Count" />
-    </p> -->
   <img src="http://www.hackthebox.eu/badge/image/1385517" alt="Hack The Box" align="center" width="30%" hight="30%"/>
 <a href="https://0xDigimon.github.io/Digimon">
- <!--  <img src="https://github.com/0xDigimon/0xdigimon/blob/main/PSX_20221212_132729.jpg" align="right" width="30%"/>-->
 </a>
-<!--
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xDigimon&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="30%" />
-</a>
--->
 </div>
     
 <!-- Statistics -->
@@ -71,7 +51,6 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 </div>
-<!--
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
--->
 </div>
